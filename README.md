@@ -7,6 +7,7 @@ Using HTML and CSS, you can design your web applications in a cross-platform man
 This course teaches you the fundamentals of HTML and JavaScript. We will also touch the basics of CSS. To learn more about CSS, check other courses we created for CSS learning.
 
 Course Outline:
+
 Module 1: Creating Web Pages using Hypertext Markup Language (HTML)
 In this module, you will learn how to create a basic HTML document using the core HTML elements. You will learn about the basic structure of an HTML element (content, attributes, etc.) and how they are used in the context of your HTML web pages.
 
