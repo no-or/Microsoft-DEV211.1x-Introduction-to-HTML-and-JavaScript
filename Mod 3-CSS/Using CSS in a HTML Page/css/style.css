@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+article{
+    color: brown;
+    margin: 10px;
+}
+footer{
+    font-size: x-small;
+    font-style: italic;
+    background-color: crimson;
+    padding: 10px;
+}
+header{
+    color: rgb(170, 170, 170);
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(#051118, #5C373C);
+    border: thin darkslategray inset;
+    padding: 10px 20px;
+    margin: 20px 30px;
+}
